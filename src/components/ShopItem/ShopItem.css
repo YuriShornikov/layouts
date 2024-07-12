@@ -1,0 +1,13 @@
+.view_module {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f3f3f3;
+    gap: 20px;
+}
+
+.view_module img {
+    width: 100px;
+    height: 100px;
+}

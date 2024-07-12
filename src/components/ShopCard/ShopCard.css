@@ -1,0 +1,28 @@
+.view_list {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f3f3f3;
+}
+
+.view_list img {
+    width: 200px;
+    height: 200px;
+}
+
+.view_list-bottom {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h6, h3, p {
+    height: 33px;
+    margin: 0;
+    align-content: center;
+}
